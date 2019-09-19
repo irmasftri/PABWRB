@@ -1,0 +1,16 @@
+body {
+    background-image:url('D:/FILE KULIAH IRMA/PrakPABW/PABWRB/week-2/Modul-2/image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    background-color: rgba(0,0,0,0.65);
+    padding-left: 20px;
+    margin-left: 15px;
+    width: 40%;
+    bottom: 20px;
+    position: fixed;
+}
