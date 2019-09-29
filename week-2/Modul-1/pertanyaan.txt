@@ -1,0 +1,26 @@
+1. setelah saya mengubah-ubah kode HTML sesuai
+keinginan, saya simpulkan bahwa HMTL sebenarnya
+tidak pernah error, hanya saja jika kode yang kita
+tuliskan tidak sesuai atau terdapat kesalahan kode
+maka akan berpengaruh pada tampilan di browsernya.
+
+2. setelah nilai meta refresh diubah, terjadi
+perubahan yaitu, laman html pada percobaan akan
+ter-refresh ke halaman www.google.co.id.
+
+Meta Dokumen berguna untuk memberi informasi
+tambahan tentang kondisi atau tambahan tentang
+kondisi atau isi dari halaman website kepada
+robot di search engine.
+
+3.<thead> : digunakan untuk mengelompokkan konten
+	    yang terletak di kepala(atas) sebuah
+	    tabel.
+  <tbody> : berfungsi untuk mendefinisikan isi tabel
+  <tr> : berfungsi untuk mendefinisikan baris dari
+	 sebuah tabel
+  <th> : berfungsi untuk mendefinisikan judul dari
+	 tabel
+  <td> : berfungsi untuk mendefinisikan tabel data,
+	 atau memasukkan data-data
+
